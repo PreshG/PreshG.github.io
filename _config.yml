@@ -1,4 +1,4 @@
-title: "ASU COVID-19 Response Team"
+title: "The ASU COVID-19 Case Investigation Team"
 author: "Precious Abayesu"
 description: "Arizona State University"
 permalink: /:title/
@@ -18,6 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
   - {file: "README.md", title: "About", icon: address-card}
+  - {file: "index.html", title: "Our Team"}
+  - {title: "Website", url: "https://shesc.asu.edu/research/projects/arizona-covid-19-response-and-tracking"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:pabayesu@asu.edu"}
