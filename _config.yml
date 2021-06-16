@@ -18,10 +18,10 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home", icon: home}
   - {file: "README.md", title: "About", icon: address-card}
-  - {file: "index.html", title: "Our Team"}
-  - {title: "Website", url: "https://shesc.asu.edu/research/projects/arizona-covid-19-response-and-tracking"}
+  - {file: "index.html", title: "Our Team", icon: home}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: "Website", url: "https://shesc.asu.edu/research/projects/arizona-covid-19-response-and-tracking"}
   - {title: Mail, icon: envelope, url: "mailto:pabayesu@asu.edu"}
   - {title: Github, icon: github, url: "https://github.com/PreshG"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
